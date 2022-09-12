@@ -1,9 +1,9 @@
 ### Hi I'm Rocio :raising_hand:
 
 
-- 🔭 I’m currently working on going further on my future as Front end developer
-- 🌱 I’m currently learning JS, Phyton, React
-- 👯 I’m looking to collaborate on design projects
+- 🔭 I’m currently working as backend developer on Ruby on Rails
+- 🌱 I’m currently API, Vuejs, React
+- 👯 I’m looking to collaborate on challenge projects
 - 📫 Look at my projects: https://github.com/ropicaza
 - ⚡ My recent project: https://www.turna-domain.monster/
 -->
